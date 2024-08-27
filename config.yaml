@@ -1,0 +1,4 @@
+server_address: ':8080'
+api_key: '8618232e744aecf5d41259496fe19ffd'
+tmdbBaseURL: 'https://api.themoviedb.org/3'
+database_url: 'root:admin1512@tcp(localhost:3306)/test_db'
